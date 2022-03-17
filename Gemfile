@@ -6,4 +6,7 @@ gem 'sqlite3', '~>1.3.6'
 
 group :development, :test do
   gem "rspec-rails"
+  gem 'pry'
+  gem 'table_print'
+  gem 'awesome_print'
 end
